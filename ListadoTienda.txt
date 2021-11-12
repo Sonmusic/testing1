@@ -1,0 +1,7 @@
+#Lista tienda
+1. 1 televisor
+2. 2 computadores
+3. 3 parillas
+4. 2 muebles
+5. 1 silla
+6. 2 mesas grandes
